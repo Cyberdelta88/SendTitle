@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SendTitle:jar">
+    <output-path>$USER_HOME$/Serveur Minecraft test/plugins</output-path>
+    <root id="archive" name="SendTitle.jar">
+      <element id="module-output" name="SendTitle" />
+    </root>
+  </artifact>
+</component>
