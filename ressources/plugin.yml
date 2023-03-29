@@ -1,0 +1,6 @@
+name: SendTitle
+main: fr.cyberdelta88.SendTitle.Main
+version: 0.1
+author: Cyberdlta88
+commands:
+  sendtitle:
